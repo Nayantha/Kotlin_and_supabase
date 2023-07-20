@@ -40,6 +40,7 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
 //    supabase
     implementation 'io.github.jan-tennert.supabase:[module]:VERSION'
+    implementation 'io.ktor:ktor-client-[engine]:KTOR_VERSION'
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.5'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
